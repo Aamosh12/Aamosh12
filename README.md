@@ -18,7 +18,7 @@ Specialising in API testing and automation with a background in full-stack devel
 
 **Testing**
 
-![Playwright](https://img.shields.io/badge/Playwright-2D4A6B?style=flat-square&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2D4A6B?style=flat-square&logo=playwright&logoColor=39b54a)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
